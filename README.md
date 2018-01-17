@@ -1,7 +1,7 @@
 # mauliknshah-p0
 # Author : Maulik Shah
 # For Data Science Practicum - Project 0.
-# Data : 7 e-books from the Gutenberg project (Given in the /data folder).
+# Data : 8 e-books from the Gutenberg project (Given in the /data folder).
 
 SPALL contains 4 projects:
 
