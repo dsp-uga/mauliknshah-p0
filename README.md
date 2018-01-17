@@ -1,7 +1,15 @@
 # mauliknshah-p0
 # Author : Maulik Shah
 # For Data Science Practicum - Project 0.
-# Data : 7 e-books from the Gutenberg project which are given in the src/mauliknshah/p0/texts/ folder. 
+# Data : 7 e-books from the Gutenberg project which are given in the src/mauliknshah/p0/data/ folder.
 
-Project A: Count top 40 words from the @Data. The reference code is in src/mauliknshah/p0/SP1.scala file, which gives the output in JSON format in the mauliknshah/p0/output/sp1.json file.
+SPALL contains 4 projects:
+
+A: Which calculates the overall terms frequencies.
+B: Add constraint of stop-words from the stopwords/stop-words.txt file.
+C: Add constraint to remove the punctuation marks.
+D: Calculate TF-IDF of each term.
+
+There is just one class mauliknshah/p0/SPALL.scala with a main method, which contains all the required code. You can run the main method using spark-submit.
+
 
